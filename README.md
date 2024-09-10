@@ -1,7 +1,7 @@
 ## FRIENDLY, REPEAT FRIENDLY 👋
 
 <!--
-**FIREWATER777/ANONYMOUSFIRRBIATCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile, Atlantis General build. 
+**FIREWATER777/ANONYMOUS/FIREWATER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile, Atlantis General build. 
 
 Here are some ideas to get you started:
 
