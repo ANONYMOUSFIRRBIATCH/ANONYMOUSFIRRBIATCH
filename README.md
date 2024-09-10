@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything PC related, C+ weak spot
 - 📫 How to reach me: ... You know
 - 😄 Pronouns: ... HE/MAN/THE MAN 
-- ⚡ Fun fact: ... I once thought my avatar was a b@@@@@ 🤣
+- ⚡⚡️ Fun fact: ... I once thought my avatar was a b@@@@@ 🤣
 -->
