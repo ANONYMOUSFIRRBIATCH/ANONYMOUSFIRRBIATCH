@@ -1,0 +1,8 @@
+{
+  "id": "123",
+  "name": "Atlantean Sword",
+  "description": "A mystical sword forged in Atlantis.",
+  "price": 1000.0,
+  "quantity": 10,
+  "category": "Weapons"
+}
