@@ -1,4 +1,4 @@
-## COMING FOR WHATS MINE; GWS 👋
+##FIRST TRY AT GAME DEV;👋
 
 <!--
 **FIREWATER777/ANONYMOUS/FIREWATER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile, Atlantis General build. 
